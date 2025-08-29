@@ -35,7 +35,7 @@ if __name__ == "__main__":
     add_task("Finish Cyber 201 assignment")
     add_task("Push code to GitHub")
     view_tasks()
-    delete_task(0)
     mark_complete(0)
+    delete_task(0)
     #view_tasks()
     #save_tasks()
